@@ -1,0 +1,21 @@
+# OS and editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Temporary and backup files
+*.tmp
+*.bak
+*.autosave
+~$*
+
+# Altium generated/output folders
+History/
+Project\ Logs*/
+__Previews/
+*.PrjPcbStructure
+
+# Large raw media should be compressed before committing
+*.mov
+*.avi
